@@ -2,7 +2,7 @@
   <img src=https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png height="256" width="256">
   <h1><strong>Santander 2024 - Backend com Java</strong></h1>
 </div>
-<div>
+<div align="center">
   <img align="center" src=https://cdn-icons-png.flaticon.com/512/226/226777.png height="100" width="100">
   <img align="center" src=https://cdn.springpeople.com/media/UML.png height="100" width="100">
   <img align="center" src=https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png height="100" width="100">
