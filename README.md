@@ -3,13 +3,13 @@
   <h1><strong>Santander 2024 - Backend com Java</strong></h1>
 </div>
 <div>
-  <img align="center" src=https://cdn-icons-png.flaticon.com/512/226/226777.png height="128" width="128">
-  <img align="center" src=https://cdn.springpeople.com/media/UML.png height="128" width="128">
-  <img align="center" src=https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png height="128" width="128">
-  <img align="center" src=https://junit.org/junit5/assets/img/junit5-logo.png height="128" width="128">
-  <img align="center" src=https://cdn-icons-png.flaticon.com/512/4492/4492311.png height="128" width="128">
-  <img align="center" src=https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png height="128" width="128">
-  <img align="center" src=https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png height="128" width="128">
+  <img align="center" src=https://cdn-icons-png.flaticon.com/512/226/226777.png height="100" width="100">
+  <img align="center" src=https://cdn.springpeople.com/media/UML.png height="100" width="100">
+  <img align="center" src=https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png height="100" width="100">
+  <img align="center" src=https://junit.org/junit5/assets/img/junit5-logo.png height="100" width="100">
+  <img align="center" src=https://cdn-icons-png.flaticon.com/512/4492/4492311.png height="100" width="100">
+  <img align="center" src=https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png height="100" width="100">
+  <img align="center" src=https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png height="100" width="100">
 </div>
 <div align="center">
   <h1><strong>Grade Completa:</strong></h1>
