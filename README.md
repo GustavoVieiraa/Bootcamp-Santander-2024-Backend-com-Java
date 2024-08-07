@@ -11,6 +11,13 @@
   <img align="center" src=https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png height="100" width="100">
   <img align="center" src=https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png height="100" width="100">
 </div>
+
+<div align="center">
+  <h1>Projeto by Gusta:
+  https://github.com/GustavoVieiraa/ProjetoCardapio-JavaSpring
+  </h1>
+</div>
+
 <div align="center">
   <h1><strong>Grade Completa:</strong></h1>
   <ul>
