@@ -4,7 +4,7 @@
 </div>
 <div align="center">
   <img align="center" src=https://cdn-icons-png.flaticon.com/512/226/226777.png height="100" width="100">
-  <img align="center" src=https://forge.univ-lyon1.fr/uploads/-/system/project/avatar/16855/Staruml_logo.png height="100" width="100">
+  <img align="center" src=https://avatars.githubusercontent.com/u/7642181?s=280&v=4 height="100" width="100">
   <img align="center" src=https://miro.medium.com/v2/resize:fit:450/1*kbSGIVukG6lL7JtAa9wiDA.png height="100" width="100">
   <img align="center" src=https://junit.org/junit5/assets/img/junit5-logo.png height="100" width="100">
   <img align="center" src=https://cdn-icons-png.flaticon.com/512/4492/4492311.png height="100" width="100">
